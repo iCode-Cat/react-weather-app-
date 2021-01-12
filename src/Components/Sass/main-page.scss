@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 2rem 2rem;
+    input {
+        width: 100%;
+        padding: 0 1rem;
+        max-width: 500px;
+        height: 35px;      
+        
+    }
+    
+
+    
+    
+}
+
